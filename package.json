@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mediapipe/pose": "^0.5.1635988162",
+    "@tensorflow-models/pose-detection": "^2.0.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.2.0",
+    "@tensorflow/tfjs-core": "^4.2.0",
+    "bytebuffer": "^5.0.1",
+    "linuxmouse": "^1.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
